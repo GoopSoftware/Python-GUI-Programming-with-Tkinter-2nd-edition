@@ -15,8 +15,7 @@ This repository serves as a showcase of projects developed using the book, "Pyth
     - Description: This project introduces the steps towards understanding a 
     problem and designing a solution. This includes interviewing users, reST files,
     examining the data requirements, creating a form layout, and introducing Ttk
-    - Problems: This code is very repetative. The book is designed for
-    people with basic knowledge of programming. The authors should have created 
-    functions. I believe the target audience is already familiar with functions
-    and also objects. However by writing the repetative code I started to get a
-    better grasp of what each line was doing. Maybe that was the intended result.
+    - Problems: This code is very repetative. In the next chapter I learn about
+    adding objects to the code in order to clean it up.
+    - Files: data_entry_app.py, abq_data_record_2024-04-18.csv
+    - Picture: abqdataentry.png
